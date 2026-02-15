@@ -26,7 +26,7 @@
 
 ### git clone https://github.com/edraider8/case_3_synergia
 
-### cd case-3
+### cd case-3-main
 
 # Установка зависимостей:
 

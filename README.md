@@ -24,7 +24,7 @@
 
 # Клонирование репозитория:
 
-### git clone https://github.com/edraider8/case-3-synergia
+### git clone https://github.com/edraider8/case_3_synergia
 
 ### cd case-3
 
